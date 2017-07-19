@@ -1,8 +1,10 @@
 body {
-    background-color: lightblue;
+    background-color: #66b3ff;
 }
 
 h1 {
+    font-family: Georgia, serif;
+    font-size: 2em;
     color: white;
     text-align: center;
 }
