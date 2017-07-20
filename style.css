@@ -12,3 +12,8 @@ h1 {
 p {
     font-family: Helvetica, sans-serif;
 }
+
+hr {
+    color: green;
+    size: 20px;
+}
