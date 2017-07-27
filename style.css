@@ -5,7 +5,7 @@ body {
 h1 {
     font-family: Georgia, serif;
     font-size: 2em;
-    color: white;
+    color: purple;
     text-align: center;
 }
 
@@ -19,5 +19,5 @@ hr {
 }
 
 #lists {
-    color:green;
+    bg-color:green;
 }
