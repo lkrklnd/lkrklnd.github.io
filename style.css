@@ -4,13 +4,6 @@ body {
     margin: 0px;
 }
 
-h1 {
-    font-family: Georgia, serif;
-    font-size: 2em;
-    color: purple;
-    text-align: center;
-}
-
 p {
     font-family: Helvetica, sans-serif;
 }
@@ -28,6 +21,14 @@ hr {
     padding: 20px;
     height: 500px;
     text-align: center;
+}
+
+h1 {
+    font-family: 'Eater';
+    font-size: 60px;
+    color: purple;
+    text-align: right;
+    padding: 25%;
 }
 
 #about {
