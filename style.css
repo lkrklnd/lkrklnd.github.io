@@ -25,10 +25,11 @@ hr {
 
 h1 {
     font-family: 'Eater';
-    font-size: 40px;
+    font-size: 3em;
     color: orange;
     text-align: right;
-    right: 25%;
+    padding-right: 80px;
+    padding-top: 20px;
 }
 
 #about {
