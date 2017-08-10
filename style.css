@@ -26,6 +26,8 @@ hr {
     background-attachment: fixed;
     background-position: center; 
     padding: 20px;
+    height: 400px;
+    text-align: center;
 }
 
 #about {
