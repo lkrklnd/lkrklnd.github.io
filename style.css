@@ -32,6 +32,14 @@ h1 {
     padding-top: 20px;
 }
 
+h2 {
+    font-size: 3em;
+    color: white;
+    text-align: right;
+    font-family: Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
 #about {
     background-color: yellow;
     padding: 20px;
