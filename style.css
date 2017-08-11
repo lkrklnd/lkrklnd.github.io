@@ -58,6 +58,14 @@ h2 {
     text-align: center;
 }
 
+table {
+    text-align: center;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
 #movie {
     background-color: pink;
     padding: 20px;
